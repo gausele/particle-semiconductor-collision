@@ -1,0 +1,4 @@
+/home/utkarsha/sim/build/CMakeFiles/sim.dir
+/home/utkarsha/sim/build/CMakeFiles/Simulation.dir
+/home/utkarsha/sim/build/CMakeFiles/edit_cache.dir
+/home/utkarsha/sim/build/CMakeFiles/rebuild_cache.dir
